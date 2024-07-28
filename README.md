@@ -18,7 +18,6 @@ A real-time collaborative code editor and whiteboard application built using Rea
 ## Installation
 
 **Clone the repository:**
-   
    **git clone** https://github.com/aditya9129/codeEditor
 
 ## Screenshots
