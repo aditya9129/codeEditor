@@ -77,7 +77,7 @@ export default function Room() {
     };
 
     init();
-    //when we return from useEffect it is cleaning function
+    //when we return from useEffect it is cleaning function Cleanup: Remove event listeners when the component unmounts.
     return () => {
       if (socketRef.current) {
         socketRef.current.disconnect();

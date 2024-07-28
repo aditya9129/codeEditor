@@ -1,4 +1,4 @@
-const ACTIONS={
+ const ACTIONS={
     JOIN:'join',
     JOINED:'joined',
     DISCONNECTED:'disconnected',
