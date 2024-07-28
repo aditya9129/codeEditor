@@ -165,12 +165,9 @@ const Editor = ({ editorRef, socketRef, roomid, code }) => {
           <pre>{output}</pre>
         </div>
        
-        </div>
-        
+        </div>    
       )}
-      
     </div>
   );
 };
-
 export default Editor;
