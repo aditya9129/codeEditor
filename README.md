@@ -1,4 +1,4 @@
-# Real-time Collaborative Code Editor and Whiteboard
+# LiveCodeSpace
 
 A real-time collaborative code editor and whiteboard application built using React, AceEditor, Socket.IO, and Node.js.
 
