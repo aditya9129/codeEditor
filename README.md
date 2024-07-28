@@ -33,4 +33,27 @@ A real-time collaborative code editor and whiteboard application built using Rea
 ![image](https://github.com/user-attachments/assets/586bc2e3-0b34-4c11-a3f6-645791f3cf7f)
 
 
+## Project Structure
+
+The project is organized into two main directories: `client` and `server`.
+
+### Client
+
+The `client/src` directory contains the React components and styles used in the frontend of the application.
+
+- **App.js**: The main component that sets up the routes for the application.
+- **Editor.js**: Component for the code editor, using AceEditor for syntax highlighting and code editing.
+- **WhiteBoard.js**: Component for the whiteboard.
+- **Chat.js**: Component for the chat system.
+- **Chatbox.js**: Sub-component for handling chat messages.
+- **NewRoom.js**: Component for entering room ID and username.
+- **LiveWhiteBoard.js**: Component for live whiteboard sessions.
+- **Room.js**: Component for managing the room.
+- **components**: Directory containing reusable components like `Member.js`.
+
+### Server
+
+The `server` directory contains the server-side code.
+
+- **server.js**: Main server file, setting up the backend with Node.js and socket.io for real-time communication.
 
