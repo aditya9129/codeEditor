@@ -4,17 +4,16 @@ A real-time collaborative code editor and whiteboard application built using Rea
 
 ## Features
 
-- Real-time code editing with support for multiple programming languages.
+- Real-time code editing with support for multiple programming languages(C++, Java, JavaScript, Python).
 - Real-time whiteboard for collaborative drawing and annotations.
 - Integrated chat system for seamless communication.
-- Room-based collaboration with user authentication.
+- Room-based collaboration with userID authentication.
 
 ## Technologies Used
 
-- **Frontend:** React, AceEditor, Socket.IO-client, lodash.debounce
+- **Frontend:** React, AceEditor
 - **Backend:** Node.js, Express, Socket.IO, axios
 - **Styling:** Tailwind CSS
-- **Other:** React Router, Axios, CORS
 
 ## Installation
 
