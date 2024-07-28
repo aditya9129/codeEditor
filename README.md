@@ -24,7 +24,11 @@ A real-time collaborative code editor and whiteboard application built using Rea
 
 ![image](https://github.com/user-attachments/assets/9119b930-0f53-4aa1-9d01-8699bf90a32d)
 
+**Code Editor**
+
 ![image](https://github.com/user-attachments/assets/1c0a2573-57ce-4e33-b244-249ae8a9259e)
+
+**WhiteBoard And ChatBox**
 
 ![image](https://github.com/user-attachments/assets/586bc2e3-0b34-4c11-a3f6-645791f3cf7f)
 
