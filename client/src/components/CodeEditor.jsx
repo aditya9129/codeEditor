@@ -2,8 +2,8 @@
 import { useState, useEffect, useRef } from 'react';
 import AceEditor from 'react-ace';
 import 'ace-builds/src-noconflict/mode-javascript';
-import 'ace-builds/src-noconflict/theme-twilight'; // Updated theme
-import WhiteBoard from './WhiteBoard'; // Make sure to import your WhiteBoard component
+import 'ace-builds/src-noconflict/theme-twilight'; 
+import WhiteBoard from './WhiteBoard'; 
 import debounce from 'lodash.debounce';
 import axios from "axios";
 
