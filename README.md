@@ -15,6 +15,10 @@ A real-time collaborative code editor and whiteboard application built using Rea
 - **Backend:** Node.js, Express, Socket.IO, axios
 - **Styling:** Tailwind CSS
 
+## Live Demo
+
+Check out the live demo of the project here: [LiveCodeSpace](https://thriving-stardust-820319.netlify.app/)
+
 ## Installation
 
 **Clone the repository:**
