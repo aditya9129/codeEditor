@@ -11,7 +11,7 @@ export const initSocket=async()=>{
      transports:['websocket'],         //Specifies that the connection should use WebSocket as the transport protocol.
 
    };
-   return io('https://codeeditorbackend-8dph.onrender.com',options);
+   return io('http://localhost:5000',options);
 }
 // 
 // http://localhost:5000
